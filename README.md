@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="22772941" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/rolling-cat-cat-rolling-green-gif-22772941">Rolling Cat Cat Rolling Sticker</a>from <a href="https://tenor.com/search/rolling+cat-stickers">Rolling Cat Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="22772941" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/rolling-cat-cat-rolling-green-gif-22772941"></a><a href="https://tenor.com/search/rolling+cat-stickers"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <!--
 **Achilles404/Achilles404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
