@@ -1,4 +1,4 @@
-<a src="https://giphy.com/embed/ptqAPgghLtHOa0SLJS"></a>
+<img src="https://giphy.com/embed/ptqAPgghLtHOa0SLJS">
 
 <!--
 **Achilles404/Achilles404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
