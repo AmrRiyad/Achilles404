@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fkitty-typing&psig=AOvVaw21ViJvR5riLyklJM-Oqrq9&ust=1652844532573000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMDd5OvL5fcCFQAAAAAdAAAAABAD"></a>
+<iframe src="https://giphy.com/embed/ptqAPgghLtHOa0SLJS" width="439" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wfh-workfromhome-remotework-ptqAPgghLtHOa0SLJS">via GIPHY</a></p>
 
 <!--
 **Achilles404/Achilles404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
