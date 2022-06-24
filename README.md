@@ -1,1 +1,1 @@
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms ; width: 10px ;" src="https://c.tenor.com/wsobmzpjvugAAAAi/rolling-cat-cat-rolling.gif">
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms ; width: 10px ;hight: 10px ;" src="https://c.tenor.com/wsobmzpjvugAAAAi/rolling-cat-cat-rolling.gif">
